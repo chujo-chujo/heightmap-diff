@@ -1,0 +1,7 @@
+Summary:
+--------
+Total tiles     : 131072 
+Changed tiles   : 2417 (1.84 %)
+ - raised land  : 1285 (0.98 %)
+ - lowered land : 1132 (0.86 %)
+Unchanged tiles : 128655 (98.16 %)
